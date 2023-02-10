@@ -1,3 +1,5 @@
+##동장님 설명 참고
+
 n,m = map(int, input().split())
 A=list(map(int, input().split()))
 
